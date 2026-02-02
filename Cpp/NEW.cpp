@@ -1,6 +1,6 @@
 #include <iostream>
-#include <iomanip>
-#include <string>
+#include <iomanip>  // Для функций setfill, setw
+#include <string>   // Для функции string() 
 using namespace std;
 struct CELL {   
     unsigned short foreground : 3;  
