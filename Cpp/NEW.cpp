@@ -1,5 +1,5 @@
 #include <iostream>
-#include <iomanip>  // Для функций setfill, setw
+#include <iomanip>  // Для фуункций setfill, setw
 #include <string>   // Для функции string() 
 using namespace std;
 struct CELL {   
